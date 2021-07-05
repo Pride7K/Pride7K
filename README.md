@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**Pride7K/Pride7K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Me chamo Guilherme Santos, atuo como Desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+##### Atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :books: Estudando frameworks frontend freneticamente;
+- :heart: Javacript Passionate;
+- :rocket: Possuo conhecimentos profissionais nas tecnologias: `.vb`, `.cs`, `.aspx`, `.html`, `.css`, `.js`, `.sql`, `.mongo`;
+
+<p align="center">
+<img align="right" alt="GIF" src="https://github.com/Pride7K/imagens/blob/master/giphy.gif?raw=true" width="40%" height="320" />
+<img align="left" width="40%" height="50%"  src="https://github-readme-stats.vercel.app/api?username=pride7k&show_icons=true&theme=dracula" alt="github stats">
+</p>
