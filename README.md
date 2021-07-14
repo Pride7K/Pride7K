@@ -5,7 +5,7 @@
 ##### Atualmente
 
 - :books: Estudando frameworks frontend freneticamente;
-- :heart: Javacript Passionate;
+- :heart: Javascript Passionate;
 - :rocket: Possuo conhecimentos profissionais nas tecnologias: `.vb`, `.cs`, `.aspx`, `.html`, `.css`, `.js`, `.sql`, `.mongo`;
 
 <p align="center">
