@@ -38,3 +38,5 @@
 
 <br>
   
+![Snake animation](https://github.com/pride7k/pride7k/blob/output/github-contribution-grid-snake.svg)
+  
