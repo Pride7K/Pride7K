@@ -4,7 +4,7 @@
 
 ##### Atm
 
-- :books: Learning about the Auth ecosystem and french 🥖;
+- :books: Learning about the authentication/authorization ecosystem and French 🥖;
 - :heart: Javascript and C# (🤨) Passionate;
 - :rocket: I know a lot of stuff;
   
