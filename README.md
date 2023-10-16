@@ -6,5 +6,5 @@
 
 - :books: Learning about the authentication/authorization ecosystem and French 🥖;
 - :heart: Javascript and C# (🤨) Passionate;
-- :rocket: I know a lot of stuff;
+- :robot: I know a bunch of stuff;
   
