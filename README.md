@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### My name is Guilherme Santos, I work as a Full Stack Developer in Portugal
+#### My name is Guilherme Santos, I work as a Software Engineer in Portugal
 
 ##### Atm
 
